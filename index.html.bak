@@ -238,21 +238,7 @@
         <!-- Copyright -->
       </footer>
       <!-- Cia Jono kodo pabaiga -->
-	  
-      <!-- Cia Andriaus kodo pradzia -->
-		
-		<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="ress.png" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Ieskomas personalas</h5>
-    <p class="card-text">Skubiai ieskomi restorano darbuotojai, 
-                         Alga priklauso nuo kompetencijos.
-    </p>
-    <a href="#" class="btn btn-primary">Pretenduoti</a>
-  </div>
-</div>
-		
-	<!-- Cia Andriaus kodo pabaiga -->
+     
 
       <!-- cia uzsidaro pagrindinis container -->
     </div>
