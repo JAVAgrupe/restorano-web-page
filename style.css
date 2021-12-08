@@ -1,11 +1,17 @@
-*{
-    margin: 0;
-    box-sizing: border-box;
-  }
-  
   .container{
     height: 100vh;
   }
 
+*{
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .img2{
+    width: 70%;
+    height: auto;
+    }
+
   
   
+
